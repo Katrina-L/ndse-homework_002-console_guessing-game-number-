@@ -1,0 +1,19 @@
+{
+  "name": "ndse-homework_002-console_guessing-game",
+  "version": "1.0.0",
+  "main": "guessing-game.js",
+  "bin": {
+    "guessing-game": "./guessing-game.js",
+    "game-sync": "./game-sync.js",
+    "game-light": "./game-light.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
